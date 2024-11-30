@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
+  "name": "lddlauncher",
   "version": "2.2.1",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "productName": "Le dernier des Launcher",
+  "description": "Launcher Custom pour le dernier des modpacks",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/), Pandarou",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/dscalzi/LddLauncher",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/dscalzi/LddLauncher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -46,6 +46,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/dscalzi/LddLauncher.git"
   }
 }
