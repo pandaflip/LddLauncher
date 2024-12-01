@@ -5,9 +5,9 @@
   "description": "Launcher Custom pour le dernier des modpacks",
   "author": "Daniel Scalzi (https://github.com/dscalzi/), Pandarou",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/LddLauncher",
+  "homepage": "https://github.com/pandaflip/LddLauncher",
   "bugs": {
-    "url": "https://github.com/dscalzi/LddLauncher/issues"
+    "url": "https://github.com/pandaflip/LddLauncherissues"
   },
   "private": true,
   "main": "index.js",
@@ -46,6 +46,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/LddLauncher.git"
+    "url": "git+https://github.com/pandaflip/LddLauncher.git"
   }
 }
